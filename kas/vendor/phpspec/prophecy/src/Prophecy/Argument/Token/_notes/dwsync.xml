@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AnyValuesToken.php" local="133220736000000000" remote="133220736000000000" testing="0" />
+<file name="AnyValueToken.php" local="133220736000000000" remote="133220736000000000" testing="0" />
+<file name="ApproximateValueToken.php" local="133220736000000000" remote="133220736000000000" testing="0" />
+<file name="ArrayCountToken.php" local="133220736000000000" remote="133220736000000000" testing="0" />
+<file name="ArrayEntryToken.php" local="133220736000000000" remote="133220736000000000" testing="0" />
+<file name="ArrayEveryEntryToken.php" local="133220736000000000" remote="133220736000000000" testing="0" />
+<file name="CallbackToken.php" local="133220736000000000" remote="133220736000000000" testing="0" />
+<file name="ExactValueToken.php" local="133220736000000000" remote="133220736000000000" testing="0" />
+<file name="IdenticalValueToken.php" local="133220736000000000" remote="133220736000000000" testing="0" />
+<file name="LogicalAndToken.php" local="133220736000000000" remote="133220736000000000" testing="0" />
+<file name="LogicalNotToken.php" local="133220736000000000" remote="133220736000000000" testing="0" />
+<file name="ObjectStateToken.php" local="133220736000000000" remote="133220736000000000" testing="0" />
+<file name="StringContainsToken.php" local="133220736000000000" remote="133220736000000000" testing="0" />
+<file name="TokenInterface.php" local="133220736000000000" remote="133220736000000000" testing="0" />
+<file name="TypeToken.php" local="133220736000000000" remote="133220736000000000" testing="0" />
+</dwsync>

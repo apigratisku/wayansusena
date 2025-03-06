@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AppendStream.php" local="133220736000000000" remote="133220736000000000" testing="0" />
+<file name="BufferStream.php" local="133220736000000000" remote="133220736000000000" testing="0" />
+<file name="CachingStream.php" local="133220736000000000" remote="133220736000000000" testing="0" />
+<file name="DroppingStream.php" local="133220736000000000" remote="133220736000000000" testing="0" />
+<file name="FnStream.php" local="133220736000000000" remote="133220736000000000" testing="0" />
+<file name="functions_include.php" local="133220736000000000" remote="133220736000000000" testing="0" />
+<file name="functions.php" local="133220736000000000" remote="133220736000000000" testing="0" />
+<file name="Header.php" local="133220736000000000" remote="133220736000000000" testing="0" />
+<file name="InflateStream.php" local="133220736000000000" remote="133220736000000000" testing="0" />
+<file name="LazyOpenStream.php" local="133220736000000000" remote="133220736000000000" testing="0" />
+<file name="LimitStream.php" local="133220736000000000" remote="133220736000000000" testing="0" />
+<file name="Message.php" local="133220736000000000" remote="133220736000000000" testing="0" />
+<file name="MessageTrait.php" local="133220736000000000" remote="133220736000000000" testing="0" />
+<file name="MimeType.php" local="133220736000000000" remote="133220736000000000" testing="0" />
+<file name="MultipartStream.php" local="133220736000000000" remote="133220736000000000" testing="0" />
+<file name="NoSeekStream.php" local="133220736000000000" remote="133220736000000000" testing="0" />
+<file name="PumpStream.php" local="133220736000000000" remote="133220736000000000" testing="0" />
+<file name="Query.php" local="133220736000000000" remote="133220736000000000" testing="0" />
+<file name="Request.php" local="133220736000000000" remote="133220736000000000" testing="0" />
+<file name="Response.php" local="133220736000000000" remote="133220736000000000" testing="0" />
+<file name="Rfc7230.php" local="133220736000000000" remote="133220736000000000" testing="0" />
+<file name="ServerRequest.php" local="133220736000000000" remote="133220736000000000" testing="0" />
+<file name="StreamDecoratorTrait.php" local="133220736000000000" remote="133220736000000000" testing="0" />
+<file name="Stream.php" local="133220736000000000" remote="133220736000000000" testing="0" />
+<file name="StreamWrapper.php" local="133220736000000000" remote="133220736000000000" testing="0" />
+<file name="UploadedFile.php" local="133220736000000000" remote="133220736000000000" testing="0" />
+<file name="UriNormalizer.php" local="133220736000000000" remote="133220736000000000" testing="0" />
+<file name="Uri.php" local="133220736000000000" remote="133220736000000000" testing="0" />
+<file name="UriResolver.php" local="133220736000000000" remote="133220736000000000" testing="0" />
+<file name="Utils.php" local="133220736000000000" remote="133220736000000000" testing="0" />
+</dwsync>

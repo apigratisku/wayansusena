@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="arrow.gif" local="133220736000000000" remote="133220736000000000" testing="0" />
+<file name="booleanMappingKeys.yml" local="133220736000000000" remote="133220736000000000" testing="0" />
+<file name="embededPhp.yml" local="133220736000000000" remote="133220736000000000" testing="0" />
+<file name="escapedCharacters.yml" local="133220736000000000" remote="133220736000000000" testing="0" />
+<file name="index.yml" local="133220736000000000" remote="133220736000000000" testing="0" />
+<file name="legacyBooleanMappingKeys.yml" local="133220736000000000" remote="133220736000000000" testing="0" />
+<file name="legacyNonStringKeys.yml" local="133220736000000000" remote="133220736000000000" testing="0" />
+<file name="legacyNullMappingKey.yml" local="133220736000000000" remote="133220736000000000" testing="0" />
+<file name="multiple_lines_as_literal_block_for_tagged_values.yml" local="133220736000000000" remote="133220736000000000" testing="0" />
+<file name="multiple_lines_as_literal_block_leading_space_in_first_line.yml" local="133220736000000000" remote="133220736000000000" testing="0" />
+<file name="multiple_lines_as_literal_block.yml" local="133220736000000000" remote="133220736000000000" testing="0" />
+<file name="nonStringKeys.yml" local="133220736000000000" remote="133220736000000000" testing="0" />
+<file name="not_readable.yml" local="133220736000000000" remote="133220736000000000" testing="0" />
+<file name="nullMappingKey.yml" local="133220736000000000" remote="133220736000000000" testing="0" />
+<file name="numericMappingKeys.yml" local="133220736000000000" remote="133220736000000000" testing="0" />
+<file name="sfComments.yml" local="133220736000000000" remote="133220736000000000" testing="0" />
+<file name="sfCompact.yml" local="133220736000000000" remote="133220736000000000" testing="0" />
+<file name="sfMergeKey.yml" local="133220736000000000" remote="133220736000000000" testing="0" />
+<file name="sfObjects.yml" local="133220736000000000" remote="133220736000000000" testing="0" />
+<file name="sfQuotes.yml" local="133220736000000000" remote="133220736000000000" testing="0" />
+<file name="sfTests.yml" local="133220736000000000" remote="133220736000000000" testing="0" />
+<file name="unindentedCollections.yml" local="133220736000000000" remote="133220736000000000" testing="0" />
+<file name="YtsAnchorAlias.yml" local="133220736000000000" remote="133220736000000000" testing="0" />
+<file name="YtsBasicTests.yml" local="133220736000000000" remote="133220736000000000" testing="0" />
+<file name="YtsBlockMapping.yml" local="133220736000000000" remote="133220736000000000" testing="0" />
+<file name="YtsDocumentSeparator.yml" local="133220736000000000" remote="133220736000000000" testing="0" />
+<file name="YtsErrorTests.yml" local="133220736000000000" remote="133220736000000000" testing="0" />
+<file name="YtsFlowCollections.yml" local="133220736000000000" remote="133220736000000000" testing="0" />
+<file name="YtsFoldedScalars.yml" local="133220736000000000" remote="133220736000000000" testing="0" />
+<file name="YtsNullsAndEmpties.yml" local="133220736000000000" remote="133220736000000000" testing="0" />
+<file name="YtsSpecificationExamples.yml" local="133220736000000000" remote="133220736000000000" testing="0" />
+<file name="YtsTypeTransfers.yml" local="133220736000000000" remote="133220736000000000" testing="0" />
+</dwsync>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="QuotaTestCase.php" local="133220736000000000" remote="133220736000000000" testing="0" />
+<file name="vfsStreamAbstractContentTestCase.php" local="133220736000000000" remote="133220736000000000" testing="0" />
+<file name="vfsStreamContainerIteratorTestCase.php" local="133220736000000000" remote="133220736000000000" testing="0" />
+<file name="vfsStreamDirectoryIssue18TestCase.php" local="133220736000000000" remote="133220736000000000" testing="0" />
+<file name="vfsStreamDirectoryTestCase.php" local="133220736000000000" remote="133220736000000000" testing="0" />
+<file name="vfsStreamFileTestCase.php" local="133220736000000000" remote="133220736000000000" testing="0" />
+<file name="vfsStreamGlobTestCase.php" local="133220736000000000" remote="133220736000000000" testing="0" />
+<file name="vfsStreamResolveIncludePathTestCase.php" local="133220736000000000" remote="133220736000000000" testing="0" />
+<file name="vfsStreamTestCase.php" local="133220736000000000" remote="133220736000000000" testing="0" />
+<file name="vfsStreamUmaskTestCase.php" local="133220736000000000" remote="133220736000000000" testing="0" />
+<file name="vfsStreamWrapperAlreadyRegisteredTestCase.php" local="133220736000000000" remote="133220736000000000" testing="0" />
+<file name="vfsStreamWrapperBaseTestCase.php" local="133220736000000000" remote="133220736000000000" testing="0" />
+<file name="vfsStreamWrapperDirSeparatorTestCase.php" local="133220736000000000" remote="133220736000000000" testing="0" />
+<file name="vfsStreamWrapperDirTestCase.php" local="133220736000000000" remote="133220736000000000" testing="0" />
+<file name="vfsStreamWrapperFileTestCase.php" local="133220736000000000" remote="133220736000000000" testing="0" />
+<file name="vfsStreamWrapperFileTimesTestCase.php" local="133220736000000000" remote="133220736000000000" testing="0" />
+<file name="vfsStreamWrapperFlockTestCase.php" local="133220736000000000" remote="133220736000000000" testing="0" />
+<file name="vfsStreamWrapperQuotaTestCase.php" local="133220736000000000" remote="133220736000000000" testing="0" />
+<file name="vfsStreamWrapperSetOptionTestCase.php" local="133220736000000000" remote="133220736000000000" testing="0" />
+<file name="vfsStreamWrapperStreamSelectTestCase.php" local="133220736000000000" remote="133220736000000000" testing="0" />
+<file name="vfsStreamWrapperTestCase.php" local="133220736000000000" remote="133220736000000000" testing="0" />
+<file name="vfsStreamWrapperWithoutRootTestCase.php" local="133220736000000000" remote="133220736000000000" testing="0" />
+<file name="vfsStreamZipTestCase.php" local="133220736000000000" remote="133220736000000000" testing="0" />
+</dwsync>
