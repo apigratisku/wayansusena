@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="ClassPatchInterface.php" local="133220736000000000" remote="133220736000000000" testing="0" />
+<file name="DisableConstructorPatch.php" local="133220736000000000" remote="133220736000000000" testing="0" />
+<file name="HhvmExceptionPatch.php" local="133220736000000000" remote="133220736000000000" testing="0" />
+<file name="KeywordPatch.php" local="133220736000000000" remote="133220736000000000" testing="0" />
+<file name="MagicCallPatch.php" local="133220736000000000" remote="133220736000000000" testing="0" />
+<file name="ProphecySubjectPatch.php" local="133220736000000000" remote="133220736000000000" testing="0" />
+<file name="ReflectionClassNewInstancePatch.php" local="133220736000000000" remote="133220736000000000" testing="0" />
+<file name="SplFileInfoPatch.php" local="133220736000000000" remote="133220736000000000" testing="0" />
+<file name="ThrowablePatch.php" local="133220736000000000" remote="133220736000000000" testing="0" />
+<file name="TraversablePatch.php" local="133220736000000000" remote="133220736000000000" testing="0" />
+</dwsync>

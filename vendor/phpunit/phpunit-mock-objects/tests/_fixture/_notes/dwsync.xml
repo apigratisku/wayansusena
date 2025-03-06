@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AbstractMockTestClass.php" local="133220736000000000" remote="133220736000000000" testing="0" />
+<file name="AbstractTrait.php" local="133220736000000000" remote="133220736000000000" testing="0" />
+<file name="AnInterface.php" local="133220736000000000" remote="133220736000000000" testing="0" />
+<file name="AnInterfaceWithReturnType.php" local="133220736000000000" remote="133220736000000000" testing="0" />
+<file name="AnotherInterface.php" local="133220736000000000" remote="133220736000000000" testing="0" />
+<file name="Bar.php" local="133220736000000000" remote="133220736000000000" testing="0" />
+<file name="ClassThatImplementsSerializable.php" local="133220736000000000" remote="133220736000000000" testing="0" />
+<file name="ClassWithSelfTypeHint.php" local="133220736000000000" remote="133220736000000000" testing="0" />
+<file name="ClassWithStaticMethod.php" local="133220736000000000" remote="133220736000000000" testing="0" />
+<file name="Foo.php" local="133220736000000000" remote="133220736000000000" testing="0" />
+<file name="FunctionCallback.php" local="133220736000000000" remote="133220736000000000" testing="0" />
+<file name="GoogleSearch.wsdl" local="133220736000000000" remote="133220736000000000" testing="0" />
+<file name="InterfaceWithSemiReservedMethodName.php" local="133220736000000000" remote="133220736000000000" testing="0" />
+<file name="InterfaceWithStaticMethod.php" local="133220736000000000" remote="133220736000000000" testing="0" />
+<file name="MethodCallbackByReference.php" local="133220736000000000" remote="133220736000000000" testing="0" />
+<file name="MethodCallback.php" local="133220736000000000" remote="133220736000000000" testing="0" />
+<file name="Mockable.php" local="133220736000000000" remote="133220736000000000" testing="0" />
+<file name="MockTestInterface.php" local="133220736000000000" remote="133220736000000000" testing="0" />
+<file name="PartialMockTestClass.php" local="133220736000000000" remote="133220736000000000" testing="0" />
+<file name="SingletonClass.php" local="133220736000000000" remote="133220736000000000" testing="0" />
+<file name="SomeClass.php" local="133220736000000000" remote="133220736000000000" testing="0" />
+<file name="StaticMockTestClass.php" local="133220736000000000" remote="133220736000000000" testing="0" />
+<file name="StringableClass.php" local="133220736000000000" remote="133220736000000000" testing="0" />
+<file name="TraversableMockTestInterface.php" local="133220736000000000" remote="133220736000000000" testing="0" />
+</dwsync>

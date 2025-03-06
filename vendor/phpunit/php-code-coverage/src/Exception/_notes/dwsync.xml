@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="CoveredCodeNotExecutedException.php" local="133220736000000000" remote="133220736000000000" testing="0" />
+<file name="Exception.php" local="133220736000000000" remote="133220736000000000" testing="0" />
+<file name="InvalidArgumentException.php" local="133220736000000000" remote="133220736000000000" testing="0" />
+<file name="MissingCoversAnnotationException.php" local="133220736000000000" remote="133220736000000000" testing="0" />
+<file name="RuntimeException.php" local="133220736000000000" remote="133220736000000000" testing="0" />
+<file name="UnintentionallyCoveredCodeException.php" local="133220736000000000" remote="133220736000000000" testing="0" />
+</dwsync>

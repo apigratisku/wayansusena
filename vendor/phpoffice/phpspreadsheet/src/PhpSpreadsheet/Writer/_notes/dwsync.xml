@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="BaseWriter.php" local="133220736000000000" remote="133220736000000000" testing="0" />
+<file name="Csv.php" local="133220736000000000" remote="133220736000000000" testing="0" />
+<file name="Exception.php" local="133220736000000000" remote="133220736000000000" testing="0" />
+<file name="Html.php" local="133220736000000000" remote="133220736000000000" testing="0" />
+<file name="IWriter.php" local="133220736000000000" remote="133220736000000000" testing="0" />
+<file name="Ods.php" local="133220736000000000" remote="133220736000000000" testing="0" />
+<file name="Pdf.php" local="133220736000000000" remote="133220736000000000" testing="0" />
+<file name="Xls.php" local="133220736000000000" remote="133220736000000000" testing="0" />
+<file name="Xlsx.php" local="133220736000000000" remote="133220736000000000" testing="0" />
+</dwsync>

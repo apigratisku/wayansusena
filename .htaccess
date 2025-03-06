@@ -1,0 +1,14 @@
+RewriteEngine on
+RewriteBase /
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.*)$ index.php?/$1 [L]
+
+
+<FilesMatch ".(eot|ttf|otf|woff)">
+	Header set Access-Control-Allow-Origin "*"
+</FilesMatch>
+
+RewriteEngine On
+RewriteCond %{HTTPS} !=on
+RewriteRule ^/?(.*) https://%{SERVER_NAME}/$1 [R,L]

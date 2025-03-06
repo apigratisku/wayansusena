@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="232.phpt" local="133220736000000000" remote="133220736000000000" testing="0" />
+<file name="abstract_class.phpt" local="133220736000000000" remote="133220736000000000" testing="0" />
+<file name="class_call_parent_clone.phpt" local="133220736000000000" remote="133220736000000000" testing="0" />
+<file name="class_call_parent_constructor.phpt" local="133220736000000000" remote="133220736000000000" testing="0" />
+<file name="class_dont_call_parent_clone.phpt" local="133220736000000000" remote="133220736000000000" testing="0" />
+<file name="class_dont_call_parent_constructor.phpt" local="133220736000000000" remote="133220736000000000" testing="0" />
+<file name="class_implementing_interface_call_parent_constructor.phpt" local="133220736000000000" remote="133220736000000000" testing="0" />
+<file name="class_implementing_interface_dont_call_parent_constructor.phpt" local="133220736000000000" remote="133220736000000000" testing="0" />
+<file name="class_partial.phpt" local="133220736000000000" remote="133220736000000000" testing="0" />
+<file name="class.phpt" local="133220736000000000" remote="133220736000000000" testing="0" />
+<file name="class_with_method_named_method.phpt" local="133220736000000000" remote="133220736000000000" testing="0" />
+<file name="class_with_method_with_variadic_arguments.phpt" local="133220736000000000" remote="133220736000000000" testing="0" />
+<file name="interface.phpt" local="133220736000000000" remote="133220736000000000" testing="0" />
+<file name="invocation_object_clone_object.phpt" local="133220736000000000" remote="133220736000000000" testing="0" />
+<file name="namespaced_class_call_parent_clone.phpt" local="133220736000000000" remote="133220736000000000" testing="0" />
+<file name="namespaced_class_call_parent_constructor.phpt" local="133220736000000000" remote="133220736000000000" testing="0" />
+<file name="namespaced_class_dont_call_parent_clone.phpt" local="133220736000000000" remote="133220736000000000" testing="0" />
+<file name="namespaced_class_dont_call_parent_constructor.phpt" local="133220736000000000" remote="133220736000000000" testing="0" />
+<file name="namespaced_class_implementing_interface_call_parent_constructor.phpt" local="133220736000000000" remote="133220736000000000" testing="0" />
+<file name="namespaced_class_implementing_interface_dont_call_parent_constructor.phpt" local="133220736000000000" remote="133220736000000000" testing="0" />
+<file name="namespaced_class_partial.phpt" local="133220736000000000" remote="133220736000000000" testing="0" />
+<file name="namespaced_class.phpt" local="133220736000000000" remote="133220736000000000" testing="0" />
+<file name="namespaced_interface.phpt" local="133220736000000000" remote="133220736000000000" testing="0" />
+<file name="nonexistent_class.phpt" local="133220736000000000" remote="133220736000000000" testing="0" />
+<file name="nonexistent_class_with_namespace.phpt" local="133220736000000000" remote="133220736000000000" testing="0" />
+<file name="nonexistent_class_with_namespace_starting_with_separator.phpt" local="133220736000000000" remote="133220736000000000" testing="0" />
+<file name="nullable_types.phpt" local="133220736000000000" remote="133220736000000000" testing="0" />
+<file name="proxy.phpt" local="133220736000000000" remote="133220736000000000" testing="0" />
+<file name="return_type_declarations_nullable.phpt" local="133220736000000000" remote="133220736000000000" testing="0" />
+<file name="return_type_declarations_object_method.phpt" local="133220736000000000" remote="133220736000000000" testing="0" />
+<file name="return_type_declarations_self.phpt" local="133220736000000000" remote="133220736000000000" testing="0" />
+<file name="return_type_declarations_static_method.phpt" local="133220736000000000" remote="133220736000000000" testing="0" />
+<file name="return_type_declarations_void.phpt" local="133220736000000000" remote="133220736000000000" testing="0" />
+<file name="scalar_type_declarations.phpt" local="133220736000000000" remote="133220736000000000" testing="0" />
+<file name="wsdl_class_namespace.phpt" local="133220736000000000" remote="133220736000000000" testing="0" />
+<file name="wsdl_class_partial.phpt" local="133220736000000000" remote="133220736000000000" testing="0" />
+<file name="wsdl_class.phpt" local="133220736000000000" remote="133220736000000000" testing="0" />
+</dwsync>

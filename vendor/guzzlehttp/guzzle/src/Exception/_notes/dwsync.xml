@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="BadResponseException.php" local="133220736000000000" remote="133220736000000000" testing="0" />
+<file name="ClientException.php" local="133220736000000000" remote="133220736000000000" testing="0" />
+<file name="ConnectException.php" local="133220736000000000" remote="133220736000000000" testing="0" />
+<file name="GuzzleException.php" local="133220736000000000" remote="133220736000000000" testing="0" />
+<file name="InvalidArgumentException.php" local="133220736000000000" remote="133220736000000000" testing="0" />
+<file name="RequestException.php" local="133220736000000000" remote="133220736000000000" testing="0" />
+<file name="SeekException.php" local="133220736000000000" remote="133220736000000000" testing="0" />
+<file name="ServerException.php" local="133220736000000000" remote="133220736000000000" testing="0" />
+<file name="TooManyRedirectsException.php" local="133220736000000000" remote="133220736000000000" testing="0" />
+<file name="TransferException.php" local="133220736000000000" remote="133220736000000000" testing="0" />
+</dwsync>
